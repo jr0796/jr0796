@@ -20,7 +20,7 @@ Salve, Salve! Professor Junior  🤙🏽
           
  
     ![Snake animation](https://github.com/jr0796/jr0796/blob/output/github-contribution-grid-snake.svg)
-  
+    ![snake gif](https://github.com/jr0796/jr0796/blob/output/github-contribution-grid-snake.svg)
           
 
 <!--
