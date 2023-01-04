@@ -18,12 +18,16 @@ Salve, Salve! Professor Junior  🤙🏽
      
   </div>
           
-   <img src=>
+  <div>
+     ![Snake animation](https://github.com/jr0796/jr0796/blob/main/.github/workflows/main.yml) 
+   <!--![Snake animation](https://github.com/jr0796/jr0796/blob/output/github-contribution-grid-snake.svg)
+    -->  
+</div>
           
 
 <!--
 **jr0796/jr0796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
