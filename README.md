@@ -18,11 +18,9 @@ Salve, Salve! Professor Junior  🤙🏽
      
   </div>
           
-  <div>
-     ![Snake animation](https://github.com/jr0796/jr0796/blob/main/.github/workflows/main.yml) 
-   <!--![Snake animation](https://github.com/jr0796/jr0796/blob/output/github-contribution-grid-snake.svg)
-    -->  
-</div>
+ 
+    ![Snake animation](https://github.com/jr0796/jr0796/blob/output/github-contribution-grid-snake.svg)
+  
           
 
 <!--
